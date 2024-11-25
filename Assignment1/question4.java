@@ -1,4 +1,5 @@
 package DSA_GATE.Assignment1;
+
 public class question4 {
     public static int trappedWater(int height[]) {
         int leftBoundary = 0;

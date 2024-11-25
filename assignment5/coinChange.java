@@ -1,4 +1,4 @@
-package DSA_GATE.assignment5;
+package DSA_GATE.Assignment5;
 
 public class coinChange {
     public static int countRecur(int[] coins, int n, int sum) {

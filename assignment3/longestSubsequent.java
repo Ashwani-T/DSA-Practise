@@ -1,4 +1,4 @@
-package DSA_GATE.assignment3;
+package DSA_GATE.Assignment3;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package DSA_GATE.assignment3;
+package DSA_GATE.Assignment3;
 
 public class anagrams {
     public static boolean areAnagrams(String s1,String s2){

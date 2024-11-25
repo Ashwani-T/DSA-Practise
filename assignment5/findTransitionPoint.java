@@ -1,4 +1,4 @@
-package DSA_GATE.assignment5;
+package DSA_GATE.Assignment5;
 
 public class findTransitionPoint {
         public static int findTransitionPoints(int[] arr) {

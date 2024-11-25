@@ -1,4 +1,4 @@
-package DSA_GATE.assignment4;
+package DSA_GATE.Assignment4;
 
 import java.util.HashSet;
 

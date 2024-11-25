@@ -1,10 +1,6 @@
 package DSA_GATE.Assignment7;
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
+
 
 public class palindromeLinkedList {
     public boolean isPalindrome(ListNode head) {
